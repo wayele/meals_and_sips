@@ -10,6 +10,12 @@ Meals & Sips answers and ever-present call; and exemplifies a clean and easy-to-
 # Build 
 Through a team of three, the following technologies were utilized: HTML; Bulma CSS framework; custom CSS; Javascript; JQuery; Git; and Github.
 
+APIs used: 
+
+Meals API: https://www.themealdb.com/api.php
+
+Cocktails API: https://www.thecocktaildb.com/api.php
+
 # How to Use
 
 Visit Meals & Sips with an idea (or no idea) of what you'd like to serve at your next dinner party. You will pick an entree and a featured cocktail (or two).
